@@ -26,7 +26,6 @@ int prompt(int lowerBound, int upperBound, string message, string error_message)
 
 }
 
-
 int main(){
 
     int value = prompt(0, 100, "Please enter a value", "Your value is invalid");
